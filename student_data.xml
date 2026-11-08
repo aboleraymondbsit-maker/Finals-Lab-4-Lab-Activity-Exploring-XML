@@ -1,0 +1,31 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <id>001</id>
+        <name>Maria Santos</name>
+        <course>BSIT</course>
+        <year>3</year>
+    </student>
+
+    <student>
+        <id>002</id>
+        <name>Jose Cruz</name>
+        <course>BSCS</course>
+        <year>2</year>
+    </student>
+
+   
+    <student>
+    <id> 24175328 </id>
+    <name>Raymond Abole </name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+</students>
+
+//Validating XML helped me understand how important it is to fol ow a clear and consistent document structure.
+ I learned that even small mistakes, such as a missing closing tag, incorrect nesting, or a misspelled element name, can cause an XML document to be invalid. 
+ Using an XML validator made it easier to identify errors and correct them. 
+ Overall, the experience improved my attention to detail and helped me become more confident in creating well-formed XML documents.
